@@ -1,11 +1,21 @@
 # TUGAS-UAS-ALGORITMA-DAN-STRUKTUR-DATA
+
+Anggota Kelompok :
+1. Mumtaz Fikri Nazrullah (32602300002) bertugas membantu struktur data SORT dan video tutorialnya
+2. Faizal Imam Safangat (32602300019) bertugas membuat struktur data LINKED LIST dan video tutorialnya
+3. M. MALIKUS SHALEH (32602300021) bertugas membantu struktur data GRAPH dan video tutorialnya
+4. MOHAMMAD BAYAN ALDINA (32602300024) bertugas membantu struktur data TREE dan video tutorialnya
+5. NAYLA ALVIN (32602300030) bertugas editing dan meng-upload video ke YouTube
+6. NOVI MUTIARA SARI (32602300032) bertugas membuat dan editing repository GitHub
+   
 PENJELASAN PROGRAM : 
-A. LINKED LIST [https://youtu.be/JFeNV2xQdD0?si=xiEsA4ECsT-xOGcD]
+# A. LINKED LIST [https://youtu.be/JFeNV2xQdD0?si=xiEsA4ECsT-xOGcD]
 Pada program linked list ini yaitu membuat simulasi perbankan, pada simulasi ini menggunakan program Bahasa c++ dalam Bahasa tersebut banyak data yang harus disusun yang pertama menggunakan tipe data int dan string yang digunakan untuk menyimpan data bilangan bulat dan sebuah kata atau kalimat dan tipe data tersebut disimpan kedalam struct node agar lebih rapi. Kemudian ada void insert(void adalah fungsi yang tidak mengembalikan nilai) dalam program ini void insert adalah untuk menambahkan data nasabah yang akan dimasukkan. Kemudian ada void del berfungsi untuk menghapus data nasabah. Void dis yaitu void display yang berguna untuk menampilkan data nasabah yang telah terdaftar. Void cari yaitu untuk mencari data yang diinputkan dengan beberapa syarat misalnya dengan masukkan no rekening maka akan ditampilkan data yang dicari. Void transaksi yaitu berfungsi untuk melakukan transaksi berupa penarikan uang atau pengisian saldo. Void cek berfungsi untuk mengecek sisa saldo yang ada pada rekening nasabah. Kemudian yang terakhir yaitu int main adalah main program utama yang berfungsi menjalankan semua program void diatas.
 
 Cara pengunaan aplikasinya adalah dengan cara dijalankan menggunakan aplikasi software yang sesuai misalnya Devc++, visual studio code, dll. Setelah membuka dengan software tersebut maka jalankan program tersebut dengan run setelah itu inputkan programnya sesuai dengan yang kita mau.
 
-B. TREE [https://youtu.be/zaqwwcPA4jQ?si=SUV8pR42tMiJJgEY]
+# B. TREE [https://youtu.be/zaqwwcPA4jQ?si=SUV8pR42tMiJJgEY]
+Mengaplikasikan membuat program pengelompokan UAS Algoritma
 1.	Membuat Kelas Anggota :
 
   	 class Anggota {
@@ -24,10 +34,11 @@ Dalam kelas ‘Anggota’ kita membuat variabel ‘nama’ dan ‘jabatan’ den
         struktur.push_back(bagan);
     }
 
-    void tampilkanBagan(int org = 0) const {
+     void tampilkanBagan(int org = 0) const {
         for(int i = 0; i < org; i++){
             cout << " ";
         }
+  	
         cout << "* " << jabatan << " " << nama << endl;
 
         for(const auto& Anggota : struktur){
@@ -105,7 +116,8 @@ Program aplikasi yang kita buat merupakan pengelompokan anggota dalam uas algori
 Kelompok kita yang terdiri dari enam orang diimplementasikan dalam struktur hierarki yang terdiri dari ketua yang mempunyai asisten wakil ketua dan sekretaris 1 yang mempunyai asisten sekretaris 2, kemudian para anggota 1 dan anggota 2 yang disejajarkan dengan wakil ketua dan sekretaris 1 dimana akan langsung dibawah kepemimpinan ketua. Kemudian kelompok lain yang akan disetarakan dan kita hanya membuat kelompok 2-6 berstrukturkan ketua dan 4 orang anggota. 
 Selanjutnya program akan menampilkan struktur keanggotaan yang sudah dibuat sebelumnya dalam bentuk hierarki pada fungsi tampilkanBagan()pada akhir program dengan pendeklarasian pada masing masing kelompoknya.
 
-C. GRAPH [https://youtu.be/QwEjRy8gUuw?si=O1fP-tLjFDpSHvnT]
+# C. GRAPH [https://youtu.be/QwEjRy8gUuw?si=O1fP-tLjFDpSHvnT]
+Memnbuat rute perjalanan 
 Dalam program kami menggunkan 3 library yaitu :
 Disini kami menggunakan tipe data integer 
 1. mask, mask saya representasikan untuk menandai kecamattan yang sudah saya kunjungi
@@ -127,7 +139,7 @@ Saya akan menjelaskan fungsi dari int main berikut
 5. kita membuat variable mindist yang didalamnya ada fungsi tsp yang digunakan untuk menghitung jarak terpendek 
 6. menampilkan hasil dari mindist
 
-D. SORT [https://youtu.be/jGY4ZXkaYf4?si=ilf6qVB_5sk-a2Xi]
+# D. SORT [https://youtu.be/jGY4ZXkaYf4?si=ilf6qVB_5sk-a2Xi]
 Metode sort adalah suatu algoritma yang digunakan untuk mengurutkan elemen-elemen suatu kumpulan data. Tujuan utama dari pengurutan ini adalah untuk menyusun elemen-elemen data tersebut menjadi urutan tertentu, seperti dalam urutan numerik atau abjad. Pengurutan mempermudah pencarian dan pengelolaan data, dan ada berbagai metode sort yang digunakan tergantung pada kebutuhan dan karakteristik data yang diurutkan.
 
   1.	Header Includes :
