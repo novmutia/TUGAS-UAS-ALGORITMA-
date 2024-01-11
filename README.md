@@ -1,11 +1,11 @@
 # TUGAS-UAS-ALGORITMA-DAN-STRUKTUR-DATA
 PENJELASAN PROGRAM : 
-A. LINKED LIST [https://youtu.be/zaqwwcPA4jQ?si=SUV8pR42tMiJJgEY]
+A. LINKED LIST [https://youtu.be/JFeNV2xQdD0?si=xiEsA4ECsT-xOGcD]
 Pada program linked list ini yaitu membuat simulasi perbankan, pada simulasi ini menggunakan program Bahasa c++ dalam Bahasa tersebut banyak data yang harus disusun yang pertama menggunakan tipe data int dan string yang digunakan untuk menyimpan data bilangan bulat dan sebuah kata atau kalimat dan tipe data tersebut disimpan kedalam struct node agar lebih rapi. Kemudian ada void insert(void adalah fungsi yang tidak mengembalikan nilai) dalam program ini void insert adalah untuk menambahkan data nasabah yang akan dimasukkan. Kemudian ada void del berfungsi untuk menghapus data nasabah. Void dis yaitu void display yang berguna untuk menampilkan data nasabah yang telah terdaftar. Void cari yaitu untuk mencari data yang diinputkan dengan beberapa syarat misalnya dengan masukkan no rekening maka akan ditampilkan data yang dicari. Void transaksi yaitu berfungsi untuk melakukan transaksi berupa penarikan uang atau pengisian saldo. Void cek berfungsi untuk mengecek sisa saldo yang ada pada rekening nasabah. Kemudian yang terakhir yaitu int main adalah main program utama yang berfungsi menjalankan semua program void diatas.
 
 Cara pengunaan aplikasinya adalah dengan cara dijalankan menggunakan aplikasi software yang sesuai misalnya Devc++, visual studio code, dll. Setelah membuka dengan software tersebut maka jalankan program tersebut dengan run setelah itu inputkan programnya sesuai dengan yang kita mau.
 
-B. TREE [https://youtu.be/JFeNV2xQdD0?si=xiEsA4ECsT-xOGcD]
+B. TREE [https://youtu.be/zaqwwcPA4jQ?si=SUV8pR42tMiJJgEY]
 1.	Membuat Kelas Anggota :
 
   	 class Anggota {
