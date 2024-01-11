@@ -5,7 +5,7 @@ Pada program linked list ini yaitu membuat simulasi perbankan, pada simulasi ini
 
 Cara pengunaan aplikasinya adalah dengan cara dijalankan menggunakan aplikasi software yang sesuai misalnya Devc++, visual studio code, dll. Setelah membuka dengan software tersebut maka jalankan program tersebut dengan run setelah itu inputkan programnya sesuai dengan yang kita mau.
 
-B. TREE []
+B. TREE [https://youtu.be/JFeNV2xQdD0?si=xiEsA4ECsT-xOGcD]
 1.	Membuat Kelas Anggota :
 
   	 class Anggota {
@@ -105,7 +105,7 @@ Program aplikasi yang kita buat merupakan pengelompokan anggota dalam uas algori
 Kelompok kita yang terdiri dari enam orang diimplementasikan dalam struktur hierarki yang terdiri dari ketua yang mempunyai asisten wakil ketua dan sekretaris 1 yang mempunyai asisten sekretaris 2, kemudian para anggota 1 dan anggota 2 yang disejajarkan dengan wakil ketua dan sekretaris 1 dimana akan langsung dibawah kepemimpinan ketua. Kemudian kelompok lain yang akan disetarakan dan kita hanya membuat kelompok 2-6 berstrukturkan ketua dan 4 orang anggota. 
 Selanjutnya program akan menampilkan struktur keanggotaan yang sudah dibuat sebelumnya dalam bentuk hierarki pada fungsi tampilkanBagan()pada akhir program dengan pendeklarasian pada masing masing kelompoknya.
 
-C. GRAPH
+C. GRAPH [https://youtu.be/QwEjRy8gUuw?si=O1fP-tLjFDpSHvnT]
 Dalam program kami menggunkan 3 library yaitu :
 Disini kami menggunakan tipe data integer 
 1. mask, mask saya representasikan untuk menandai kecamattan yang sudah saya kunjungi
@@ -127,7 +127,7 @@ Saya akan menjelaskan fungsi dari int main berikut
 5. kita membuat variable mindist yang didalamnya ada fungsi tsp yang digunakan untuk menghitung jarak terpendek 
 6. menampilkan hasil dari mindist
 
-D. SORT
+D. SORT [https://youtu.be/jGY4ZXkaYf4?si=ilf6qVB_5sk-a2Xi]
 Metode sort adalah suatu algoritma yang digunakan untuk mengurutkan elemen-elemen suatu kumpulan data. Tujuan utama dari pengurutan ini adalah untuk menyusun elemen-elemen data tersebut menjadi urutan tertentu, seperti dalam urutan numerik atau abjad. Pengurutan mempermudah pencarian dan pengelolaan data, dan ada berbagai metode sort yang digunakan tergantung pada kebutuhan dan karakteristik data yang diurutkan.
 
   1.	Header Includes :
