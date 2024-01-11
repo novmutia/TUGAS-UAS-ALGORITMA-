@@ -7,7 +7,8 @@ Anggota Kelompok :
 4. MOHAMMAD BAYAN ALDINA (32602300024) bertugas membantu struktur data TREE dan video tutorialnya
 5. NAYLA ALVIN (32602300030) bertugas editing dan meng-upload video ke YouTube
 6. NOVI MUTIARA SARI (32602300032) bertugas membuat dan editing repository GitHub
-   
+
+
 PENJELASAN PROGRAM : 
 # A. LINKED LIST 
 [https://youtu.be/JFeNV2xQdD0?si=xiEsA4ECsT-xOGcD]
