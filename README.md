@@ -1,12 +1,5 @@
 # TUGAS-UAS-ALGORITMA-DAN-STRUKTUR-DATA
-NAMA KELOMPOK:
-1. MUMTAZ FIKRI NASRULLAH (32602300002) bertugas membuat struktur data SORT dan video tutorialnya
-2. FAIZAL IMAM SAFANGAT (32602300019) bertugas membuat struktur data LINKED LISH dan video tutorialnya
-3. M. MALIKUS SHALEH (32602300021) bertugas membuat struktur data GRAPH dan video tutprialnya
-4. MUHAMMAD BAYAN ALDINA (32602300024) bertugas membuat struktur data dan video tutorialnya
-5. NAYLA ALVIN (32602300030) bertugas mengupload video ke Youtube dan editing repository GitHub
-6. NOVI MUTIARA SARI (32602300036) bertugas membuat dan editing repository GitHub
-
+PENJELASAN PROGRAM : 
 A. LINKED LIST [https://youtu.be/zaqwwcPA4jQ?si=SUV8pR42tMiJJgEY]
 Pada program linked list ini yaitu membuat simulasi perbankan, pada simulasi ini menggunakan program Bahasa c++ dalam Bahasa tersebut banyak data yang harus disusun yang pertama menggunakan tipe data int dan string yang digunakan untuk menyimpan data bilangan bulat dan sebuah kata atau kalimat dan tipe data tersebut disimpan kedalam struct node agar lebih rapi. Kemudian ada void insert(void adalah fungsi yang tidak mengembalikan nilai) dalam program ini void insert adalah untuk menambahkan data nasabah yang akan dimasukkan. Kemudian ada void del berfungsi untuk menghapus data nasabah. Void dis yaitu void display yang berguna untuk menampilkan data nasabah yang telah terdaftar. Void cari yaitu untuk mencari data yang diinputkan dengan beberapa syarat misalnya dengan masukkan no rekening maka akan ditampilkan data yang dicari. Void transaksi yaitu berfungsi untuk melakukan transaksi berupa penarikan uang atau pengisian saldo. Void cek berfungsi untuk mengecek sisa saldo yang ada pada rekening nasabah. Kemudian yang terakhir yaitu int main adalah main program utama yang berfungsi menjalankan semua program void diatas.
 
